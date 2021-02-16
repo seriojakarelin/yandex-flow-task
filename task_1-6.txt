@@ -1,0 +1,49 @@
+Part 1. Contexts.
+
+1. I usually wear <gloves> at the gym so I don't hurt my hands. (Обычно я надеваю <перчатки> в зале, чтобы не поранить руки.)
+2. Some people think getting a massage is the most <relaxing> thing you can do. (Некоторые считают, что поход на массаж — наиболее <расслабляющая> вещь из всех.)
+3. What has more <protein>, meat or milk? (Что содержит больше <белка>, мясо или молоко?)
+
+Part 2. Tooltips.
+
+1. Actually, [I'm not a big drinker|Я не особенно пьющий]...
+2. OK, this year I'm going to [make a New Year's resolution|дать новогоднее обещание] to get fit. 
+3. Every year on the 5th of May, people in Mexico get together with friends and family to remember and [celebrate their ancestors|почтить своих предков].
+
+Part 3. Feedbacks.
+
+A waiter is the person who takes your order in a restaurant and brings food to the table. A waiter is called a "waiter" because they wait for people to sit at tables.
+Официант — это человек, который принимает у вас заказ в ресторане и приносит еду за стол. Слово waiter ("официант") происходит от главгола "wait" ("ждать"), потому что официант ждёт пока люди рассядутся за столы.
+
+Part 4. Tooltips and punctuation. 
+
+Yeah, so I taught English abroad for over 15 years. I used to live in a really [charming|очаровательном] little town in Vietnam. Life was good. But one day I got very ill and couldn’t [get over it|выздороветь]. And a couple of weeks later, [I got sacked|меня уволили]. I got a ticket back to London but had nowhere to live. So I had to start [couchsurfing|ночевать по знакомым]. But you know, you need to know when [to stop being a burden|перестать быть обузой], so I [opted for|предпочёл] sleeping rough in that park.
+
+Part 5. Communication. 
+
+Hey Jason, 
+
+Thanks for your content for Flow! It`s really great but we have a minor edit I`d like to discuss. 
+As we see it, the current context for <overweight> term is hardly understandable for Russian students because <Dad bod> is a slang that we don`t really have here. That`s why we consider using it is not suitable since students might not know it.
+
+I offer to change this point to something not so foreign for Russian people. 
+
+For example: 
+
+A: Hey, how are you doing?
+B: Hey, not so great actually. I`ve got a lot of work, I`ve stopped going to the gym and I`m getting overweight.
+
+Thanks for your attention. I look forward to feedback from you.
+Regards, 
+Serioja Karelin
+
+Part 6. Technology.
+
+big_inst = What do you know about woman in the painting?
+small_inst = Choose all the correct answers
+variant1 = [text = She came from an aristocratic Russian family, correct = true]
+variant2 = [text = Her family didn`t want her to marry a painter, correct = true]
+variant3 = [text = Her family was very poor, correct = false]
+variant4 = [text = Her family didn`t like her portraits, correct = false]
+variant5 = [text = She was in love with the painter, correct = true]
+feedback = The woman in the paintings is the old lady`s grandmother. She came from an aristocratic Russian family. She was in love with a painter, but her family didn`t want them to get married. That`s all we know about her.
